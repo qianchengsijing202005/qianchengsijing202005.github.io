@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>张成、裴世龙、方媛、李芳芳、彭加佳个人网站设计与实现</title>
+  
+  <subtitle>张成</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-05T16:56:57.638Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Zhangcheng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>方媛</title>
+    <link href="http://yoursite.com/2020/05/04/zu-yuan/fang-yuan/"/>
+    <id>http://yoursite.com/2020/05/04/zu-yuan/fang-yuan/</id>
+    <published>2020-05-04T08:40:29.000Z</published>
+    <updated>2020-05-05T16:56:57.638Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;推荐个在线编辑图片的photopea-功能和ps差不多-不用在电脑安装ps-在线就可以编辑图片-记得注册下哦！&quot;&gt;&lt;a href=&quot;#推荐个在线编辑图片的photopea-功能和ps差不多-不用在电脑安装ps-在线就可以编辑图片-记得注册下哦！&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="组员" scheme="http://yoursite.com/categories/%E7%BB%84%E5%91%98/"/>
+    
+    
+      <category term="组员" scheme="http://yoursite.com/tags/%E7%BB%84%E5%91%98/"/>
+    
+      <category term="QQ" scheme="http://yoursite.com/tags/QQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>彭加佳</title>
+    <link href="http://yoursite.com/2020/05/04/zu-yuan/peng-jia-jia/"/>
+    <id>http://yoursite.com/2020/05/04/zu-yuan/peng-jia-jia/</id>
+    <published>2020-05-04T06:40:29.000Z</published>
+    <updated>2020-05-05T16:57:20.251Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;推荐个在线编辑图片的photopea-功能和ps差不多-不用在电脑安装ps-在线就可以编辑图片-记得注册下哦！&quot;&gt;&lt;a href=&quot;#推荐个在线编辑图片的photopea-功能和ps差不多-不用在电脑安装ps-在线就可以编辑图片-记得注册下哦！&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="设计" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="组员" scheme="http://yoursite.com/tags/%E7%BB%84%E5%91%98/"/>
+    
+      <category term="QQ" scheme="http://yoursite.com/tags/QQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>李芳芳</title>
+    <link href="http://yoursite.com/2020/05/04/zu-yuan/li-fang-fang/"/>
+    <id>http://yoursite.com/2020/05/04/zu-yuan/li-fang-fang/</id>
+    <published>2020-05-04T05:40:29.000Z</published>
+    <updated>2020-05-05T17:03:30.318Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;链接：&lt;a href=&quot;https://www.photopea.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.photopea.com/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="组员" scheme="http://yoursite.com/categories/%E7%BB%84%E5%91%98/"/>
+    
+    
+      <category term="组员" scheme="http://yoursite.com/tags/%E7%BB%84%E5%91%98/"/>
+    
+      <category term="QQ" scheme="http://yoursite.com/tags/QQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>裴世龙</title>
+    <link href="http://yoursite.com/2020/05/04/zu-yuan/pei-shi-long/"/>
+    <id>http://yoursite.com/2020/05/04/zu-yuan/pei-shi-long/</id>
+    <published>2020-05-04T04:40:29.000Z</published>
+    <updated>2020-05-05T16:57:07.851Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;链接：&lt;a href=&quot;https://www.photopea.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.photopea.com/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="组员" scheme="http://yoursite.com/categories/%E7%BB%84%E5%91%98/"/>
+    
+    
+      <category term="组员" scheme="http://yoursite.com/tags/%E7%BB%84%E5%91%98/"/>
+    
+      <category term="QQ" scheme="http://yoursite.com/tags/QQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的AI基础视频课程</title>
+    <link href="http://yoursite.com/2019/04/17/ruan-jian-she-ji/ai/ai-ji-chu-shi-pin/"/>
+    <id>http://yoursite.com/2019/04/17/ruan-jian-she-ji/ai/ai-ji-chu-shi-pin/</id>
+    <published>2019-04-17T04:40:29.000Z</published>
+    <updated>2020-04-23T09:14:14.574Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;腾讯课堂AI基础视频课程&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;iframe id src=&quot;https://ke.qq.com/course/295650&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;100%&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="设计" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计类" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E7%B1%BB/"/>
+    
+      <category term="AI" scheme="http://yoursite.com/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PhotoshopCC2018纯净一键安装版</title>
+    <link href="http://yoursite.com/2019/03/29/ruan-jian-she-ji/ps/ps-an-zhuang-chun-jing-ban/"/>
+    <id>http://yoursite.com/2019/03/29/ruan-jian-she-ji/ps/ps-an-zhuang-chun-jing-ban/</id>
+    <published>2019-03-29T10:16:38.000Z</published>
+    <updated>2020-05-05T16:58:41.664Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;PhotoshopCC2018纯净一键安装版&quot;&gt;&lt;a href=&quot;#PhotoshopCC2018纯净一键安装版&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="设计" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计类" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E7%B1%BB/"/>
+    
+      <category term="ps" scheme="http://yoursite.com/tags/ps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ps注册表清除</title>
+    <link href="http://yoursite.com/2019/03/25/ruan-jian-she-ji/ps/p-zhu-ce-biao-qing-chu/"/>
+    <id>http://yoursite.com/2019/03/25/ruan-jian-she-ji/ps/p-zhu-ce-biao-qing-chu/</id>
+    <published>2019-03-25T09:16:38.000Z</published>
+    <updated>2020-05-05T16:58:48.609Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;ps注册表清除两种方法&quot;&gt;&lt;a href=&quot;#ps注册表清除两种方法&quot; class=&quot;headerlink&quot; title=&quot;ps注册表清除两种方法&quot;&gt;&lt;/a&gt;ps注册表清除两种方法&lt;/h1&gt;&lt;h2 id=&quot;方法一：&quot;&gt;&lt;a href=&quot;#方法一：&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="设计" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计类" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E7%B1%BB/"/>
+    
+      <category term="ps" scheme="http://yoursite.com/tags/ps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ps快捷键</title>
+    <link href="http://yoursite.com/2019/03/16/ruan-jian-she-ji/ps/ps-kuai-jie-jian/"/>
+    <id>http://yoursite.com/2019/03/16/ruan-jian-she-ji/ps/ps-kuai-jie-jian/</id>
+    <published>2019-03-16T10:16:38.000Z</published>
+    <updated>2020-04-23T09:15:34.509Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;推荐个在线编辑图片的photopea-功能和ps差不多-不用在电脑安装ps-在线就可以编辑图片-记得注册下哦！&quot;&gt;&lt;a href=&quot;#推荐个在线编辑图片的photopea-功能和ps差不多-不用在电脑安装ps-在线就可以编辑图片-记得注册下哦！&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="设计" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计类" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E7%B1%BB/"/>
+    
+      <category term="ps" scheme="http://yoursite.com/tags/ps/"/>
+    
+  </entry>
+  
+</feed>
